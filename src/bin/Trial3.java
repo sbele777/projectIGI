@@ -1,6 +1,6 @@
 package bin;
 
-public class Trial2 {
+public class Trial3 {
 
 	public static void main(String[] args) {
 
